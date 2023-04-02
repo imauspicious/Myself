@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FFE2E2;
+}
+.container{
+    width: 40%;
+}
+.img_box{
+    width: 250px;
+}
+img{
+    width: 250px;
+    margin: 16px;
+    padding-right: 0px;
+}
+.bio{
+    margin-left: 16px;
+    font-size:large;
+    font-family: 'Playfair Display';
+    font-weight: 600;
+}
+#name{
+    font-family: DM Serif Display;
+    font-size:32px;
+    color:#BAD7DF;
+    text-shadow: 1px 1px 1px black;
+    text-decoration:none;
+}
+#quote{
+    color: rgb(168, 84, 51);
+    text-shadow: 1px 1px 1px rgb(225, 55, 137);
+}
+#link1{
+    color: rgb(234, 76, 102);
+    text-decoration: none;
+}
+.par{
+    width: 350px;
+    font-size: 36px;
+    font-family: DM Serif Display;
+    margin: 16px 16px 10px 16px;
+    text-decoration: underline;
+    text-decoration-color: #99DDCC;
+    color: #159895;
+    text-shadow: 1px 1px 1px black;
+}
+.list{
+    margin:32px;
+    width: 170px;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-bottom:15px;
+    font-size: 28px;
+    font-family:DM Serif Display ;
+}
+.link{
+    color:  #DF7857;
+    text-decoration: none;
+}
+.link:hover{
+    font-size: 25px;
+    transition: 0.10s ease-in;
+    color: #159895;
+}
+.hobbies{
+    margin: 32px;
+    width: 230px;
+    color:  #DF7857;
+}
