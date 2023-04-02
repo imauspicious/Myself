@@ -50,7 +50,7 @@ img{
 }
 .list{
     margin:32px;
-    width: 170px;
+    width: 300px;
 }
 ul{
     list-style: none;
@@ -71,6 +71,6 @@ li{
 }
 .hobbies{
     margin: 32px;
-    width: 230px;
+    width: 300px;
     color:  #DF7857;
 }
